@@ -232,7 +232,7 @@ export default function ChessBoard() {
           </div>
         </div>
       </div>
-      <footer>Made by Priyanshu Kashyap — React Chess Game</footer>
+      <footer>Made by PRIYANSHU KASHYAP — React Chess Game</footer>
     </div>
   );
 }
